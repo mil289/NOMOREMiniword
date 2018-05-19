@@ -40,5 +40,6 @@ MainWindow::save()
 void
 MainWindow::load()
 {
+
 }
 

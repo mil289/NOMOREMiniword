@@ -15,10 +15,14 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     hdocumentmodel.cpp \
-    hcontrol.cpp
+    hcontrol.cpp \
+    htextedit.cpp \
+    htextcursor.cpp
 
 HEADERS  += mainwindow.h \
     hdocumentmodel.h \
-    hcontrol.h
+    hcontrol.h \
+    htextedit.h \
+    htextcursor.h
 
 FORMS    += mainwindow.ui
